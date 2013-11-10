@@ -1,5 +1,5 @@
 import sys
-import simplejson
+import json as simplejson
 
 emotions = (":)",":-)","=)",";)",":D","=D",":P",":-P")
 

@@ -1,7 +1,7 @@
 from __future__ import print_function
 from Tweet import *
 import re
-import simplejson as json
+import json
 from datetime import datetime, timedelta
 import sys
 
